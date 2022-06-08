@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+          <title>Family</title>
+<body style="background-color:PapayaWhip;">
+</head>
+<body>
+<audio controls="" autoplay="">
+  <source src="file:///C:/Users/User/Videos/RealPlayer%20Downloads/MP3/IZ%20ONE%20-%20Someday%20%20%20Instrumental%20-%20trimmed.mp3" type="audio/ogg">
+  <source src="file:///C:/Users/User/Videos/RealPlayer%20Downloads/MP3/IZ%20ONE%20-%20Someday%20%20%20Instrumental%20-%20trimmed.mp3" type="audio/mpeg">
+</audio>
+
+<h1>Family</h1>
+<img src="file:///C:/Users/User/OneDrive/Desktop/images/family.jpg" width="400" height="400" border="5">
+<meta name="file:///C:/Users/User/OneDrive/Desktop/images/family.jpg" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<p><h3>I still have parents.My father's name is Syed Mohd Bashirron bin Syed Hamzah and my mother's name is Juliawati binti Rani. Both are already 50 years old.
+My siblings's name are Syarifah Nur Huda and Syarifah Nur Wafa. 
+I also have two younger sisters who are still in preschool and high school.
+They are still 13 years old and 6 years old. As the eldest child, I need to set a good example to my younger siblings so that 
+they do not follow negative behaviors.</p></h3>
+</body>
+<html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>/Gallery</title>
+<body style="background-color:Sienna;">
+</head>
+<body>
+<audio controls="" autoplay="">
+  <source src="file:///C:/Users/User/Videos/RealPlayer%20Downloads/MP3/IZ%20ONE%20-%20UP%20%20%20Instrumental%20-%20trimmed.mp3" type="audio/ogg">
+  <source src="file:///C:/Users/User/Videos/RealPlayer%20Downloads/MP3/IZ%20ONE%20-%20UP%20%20%20Instrumental%20-%20trimmed.mp3" type="audio/mpeg">
+</audio>
+<br><h3>
+<a href="Home.html">Home</a>
+<a href="Biodata.html">Biodata</a>
+<a href="Experience.html">Experience</a>
+<a href="Education.html">Education</a>
+<a href="Family.html">Family</a>
+<a href="Gallery.html">Gallery</a>
+</h3>
+        <h2> I love food hunting hehe. Here, I include a few photos of the food I captured.</h2>
+<img src="file:///C:/Users/User/OneDrive/Desktop/images/satu.jpg" alt="" width="300" height="300" border="5">
+<img src="file:///C:/Users/User/OneDrive/Desktop/images/dua.jpg" alt="" width="300" height="300" border="5">
+<img src="file:///C:/Users/User/OneDrive/Desktop/images/tiga.jpg" alt="" width="300" height="300" border="5">
+<img src="file:///C:/Users/User/OneDrive/Desktop/images/empat.jpg" alt="" width="300" height="300" border="5">
+<img src="file:///C:/Users/User/OneDrive/Desktop/images/lima.jpg" alt="" width="300" height="300" border="5">
+<img src="file:///C:/Users/User/OneDrive/Desktop/images/enam.jpg" alt="" width="300" height="300" border="5">
+<img src="file:///C:/Users/User/OneDrive/Desktop/images/tujuh.jpg" alt="" width="300" height="300" border="5">
+<img src="file:///C:/Users/User/OneDrive/Desktop/images/lapan.jpg" alt="" width="300" height="300" border="5">
+<img src="file:///C:/Users/User/OneDrive/Desktop/images/sembilan.jpg" alt="" width="300" height="300" border="5">
+
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:tan;">
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+<audio controls="" autoplay="">
+  <source src="file:///C:/Users/User/Videos/RealPlayer%20Downloads/MP3/jungkook%20-%20still%20with%20you.mp3" type="audio/ogg">
+  <source src="file:///C:/Users/User/Videos/RealPlayer%20Downloads/MP3/jungkook%20-%20still%20with%20you.mp3" type="audio/mpeg">
+</audio>
+
+<br><h3>
+<a href="Home.html">Home</a>
+<a href="Biodata.html">Biodata</a>
+<a href="Experience.html">Experience</a>
+<a href="Education.html">Education</a>
+<a href="Family.html">Family</a>
+<a href="Gallery.html">Gallery</a>
+</h3>
+
+<h2>BIODATA</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>NAME</th>
+    <th>Syarifah Aisyah binti Syed Mohd Bashirron</th>
+  </tr>
+  <tr>
+    <td>AGE</td>
+    <td>20 years old</td>
+  </tr>
+  <tr>
+    <td>DATE OF BIRTH</td>
+    <td>3/9/2002</td>
+  </tr>
+  <tr>
+    <td>PLACE OF BIRTH</td>
+    <td>Hospital Tengku Ampuan Afzan</td>
+  <tr>
+    <td>STATE</td>
+    <td>Kuantan Pahang</td>
+</table>
+<img src="file:///C:/Users/User/OneDrive/Desktop/aisyah.jpg" alt="Aisyah" width="400" height="400" border="5">
+<img src="file:///C:/Users/User/OneDrive/Desktop/baby.jpg" alt="Aisyah" width="400" height="400" border="5">
+</body>
+</html>
